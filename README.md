@@ -1,4 +1,4 @@
 # Portfolio
 
-This is my portfolio showing data analysis projects using SQL, Excel, and Power BI.
+This is my portfolio showing data analysis projects using SQL, Python, Excel, and Power BI.
 
